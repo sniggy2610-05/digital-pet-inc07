@@ -70,8 +70,7 @@ Timers were shortened for testing (hunger 5 s, win 10 s) and restored to 30 s an
 |---|---|
 | ![Mood 29](screenshots/mood-29.png) | ![Mood 30](screenshots/mood-30.png) |
 | ![Mood 70](screenshots/mood-70.png) | ![Mood 71](screenshots/mood-71.png) |
-| ![Win](screenshots/win.png) | ![Game over](screenshots/game-over.png) |
-| ![Paused](screenshots/paused.png) | ![Boundary](screenshots/boundary.png) |
+
 
 ## Assets
 `assets/pet.png`: SOURCE URL. License: LICENSE NAME.
